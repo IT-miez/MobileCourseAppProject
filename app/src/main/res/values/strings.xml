@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PersonalProjectMobileCourse</string>
+
+    <string-array name="names">
+        <item>Cat 1</item>
+        <item>Cat 2</item>
+        <item>Cat 3</item>
+        <item>Cat 4</item>
+        <item>Cat 5</item>
+        <item>Cat 6</item>
+        <item>Cat 7</item>
+        <item>Cat 8</item>
+
+    </string-array>
+
+    <string-array name="prices">
+        <item>Free</item>
+        <item>Free</item>
+        <item>Free</item>
+        <item>Free</item>
+        <item>Free</item>
+        <item>Free</item>
+        <item>Free</item>
+        <item>Free</item>
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Very cute cat looking for adoption. Looking for a stable home to live in. Come see at the Cat Rescue center!</item>
+        <item>Very cute cat looking for adoption. Looking for a stable home to live in. Come see at the Cat Rescue center!</item>
+        <item>Very cute cat looking for adoption. Looking for a stable home to live in. Come see at the Cat Rescue center!</item>
+        <item>Very cute cat looking for adoption. Looking for a stable home to live in. Come see at the Cat Rescue center!</item>
+        <item>Very cute cat looking for adoption. Looking for a stable home to live in. Come see at the Cat Rescue center!</item>
+        <item>Very cute cat looking for adoption. Looking for a stable home to live in. Come see at the Cat Rescue center!</item>
+        <item>Very cute cat looking for adoption. Looking for a stable home to live in. Come see at the Cat Rescue center!</item>
+        <item>Very cute cat looking for adoption. Looking for a stable home to live in. Come see at the Cat Rescue center!</item>
+    </string-array>
+</resources>
